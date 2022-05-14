@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GuessNumberGame</string>
+    <string name="think_your_number">think your number</string>
+    <string name="enter_a_your_number_from_1_to_100">enter a your number from 1 to 100</string>
+    <string name="enter_number">enter_number</string>
+    <string name="equals">equals=</string>
+    <string name="guess_number_game">Guess number game</string>
+    <string name="choice_options">Choice options</string>
+    <string name="think_of_a_number">think of a number</string>
+    <string name="guess_the_number">guess the number</string>
+    <string name="congrats_you_win">congrats you win!!!</string>
+    <string name="play_some_more">exit</string>
+    <string name="smaller">smaller &lt;</string>
+    <string name="more">More  &lt;</string>
+    <string name="smailer">Your number is smaller&lt;</string>
+    <string name="more_number">Your number is more &gt;</string>
+    <string name="win">Your win number=</string>
+    <string name="if_your">if your number </string>
+    <string name="press"> press =,if smaller press &lt;,if more press &gt;</string>
+
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Игра Угадай Число</string>
+     <string name="think_your_number">задумайте число</string>
+    <string name="enter_a_your_number_from_1_to_100">Введить число от1до100</string>
+    <string name="enter_number">Введи число</string>
+    <string name="equals">Равно =</string>
+    <string name="guess_number_game">Игра Угадай Число</string>
+    <string name="choice_options">Выбири вариант</string>
+    <string name="think_of_a_number">Загадать число</string>
+    <string name="guess_the_number">Угадать число</string>
+    <string name="congrats_you_win">Поздравляем Вы выиграли</string>
+    <string name="play_some_more">Выход</string>
+    <string name="smaller">Меньше &lt;</string>
+    <string name="more">Больше &gt;</string>
+    <string name="smailer">Ваше число меньше &lt; загаданого</string>
+    <string name="more_number">Ваше число больше &gt; загаданого </string>
+    <string name="win">Вы угадали , число=</string>
+    <string name="if_your">"если ваше число "</string>
+    <string name="press"> нажми =,если меньше &lt;,если больше&gt;</string>
+</resources>
